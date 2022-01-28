@@ -1,0 +1,2 @@
+version 1.0.0 released
+version 1.0.1 bug fix
